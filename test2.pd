@@ -1,0 +1,2 @@
+#N canvas 671 217 450 300 12;
+#X msg 84 240 \; pd-test2.pd obj 100 100 test \;;

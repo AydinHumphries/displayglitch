@@ -1,0 +1,5 @@
+#N canvas 581 222 450 300 12;
+#X floatatom 112 107 5 0 0 0 - - -;
+#X obj 112 130 else/display;
+#X connect 0 0 1 0;
+#X coords 0 -1 1 1 85 60 1 100 100;
